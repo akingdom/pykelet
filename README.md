@@ -1,4 +1,4 @@
 # pykelet
-(Pilot is underway)
+(Pilot is underway and nearing completion)
 
-TBA once there's something worthwhile TBA
+TBA once there's something worthwhile TBA.
